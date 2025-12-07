@@ -3,8 +3,8 @@
 ## Description
 This project analyzes telecom customer data to understand **customer churn patterns** and provide actionable recommendations.  
 The project uses **Python, SQL, Excel, and Power BI**, combining data cleaning, analysis, visualization, and predictive modeling to support business decision-making.
-Source: IBM.
 
+Source: IBM
 
 ## Tools & Technologies
 - **Python**: pandas, numpy, matplotlib, seaborn, scikit-learn  
