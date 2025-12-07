@@ -47,9 +47,9 @@ Source: IBM
 - Performed **exploratory data analysis (EDA)**:  
   - Distribution plots for tenure, monthly charges, total charges  
   - Correlation analysis to identify key churn factors  
-- Built a **predictive churn model** using scikit-learn  
+- Built a **predictive churn model** using Logistic Regression  
 - Visualized results and key metrics
-- 
+ 
 ### 3. SQL Analysis
 - Imported data into MySQL  
 - Ran queries to calculate:  
@@ -79,11 +79,11 @@ Source: IBM
 
 ## Recommendations
 
-1. Retention Programs for month-to-month customers  
-2. Encourage longer contracts (1-year or 2-year) with perks  
-3. Monitor high-risk customers using predictive model outputs  
-4. Incentivize auto-pay adoption to reduce churn  
-5. Upsell additional services to improve engagement  
+1. **Retention Programs** for month-to-month customers  
+2. **Encourage longer contracts** (1-year or 2-year) with perks  
+3. **Monitor high-risk customers** using predictive model outputs  
+4. **Incentivize auto-pay adoption** to reduce churn  
+5. **Upsell additional services** to improve engagement 
 
 
 ## Conclusion
