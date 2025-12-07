@@ -5,7 +5,7 @@ This project analyzes telecom customer data to understand **customer churn patte
 The project uses **Python, SQL, Excel, and Power BI**, combining data cleaning, analysis, visualization, and predictive modeling to support business decision-making.
 
 ## Tools & Technologies
-- **Python 3.10+**: pandas, numpy, matplotlib, seaborn, scikit-learn  
+- **Python**: pandas, numpy, matplotlib, seaborn, scikit-learn  
 - **Excel**: Data cleaning, pivot tables, charts  
 - **SQL (MySQL)**: Data querying and aggregation  
 - **Power BI Desktop**: Interactive dashboards  
@@ -13,43 +13,20 @@ The project uses **Python, SQL, Excel, and Power BI**, combining data cleaning, 
 ## Folder Structure
 
 /data  
-→ Raw dataset: `telco_churn_raw.csv`  
+- Raw dataset: `telco_churn_raw.csv`  
 
-/excel  
-→ Cleaned Excel file with pivot tables: `telco_churn_excel_cleaned.xlsx`  
+/excel
+- Cleaned Excel file: 'Telco_project_Cleaned'
+- Cleaned Excel file with pivot tables: `telco_churn_excel_cleaned.xlsx`  
 
 /python  
 → Jupyter Notebook with analysis and visualization: `telco_churn_analysis.ipynb`  
 
 /sql  
-→ SQL queries for churn insights: `telco_churn_analysis.sql`  
+→ SQL queries for churn insights: `telco_churn_mysql_analysis.sql`  
 
 /powerbi  
 → Interactive dashboard: `telco_churn_project_powerbi.pbix`  
-
-
-/data
-    telco_churn_raw.csv          # Original dataset
-
-/excel
-    telco_churn_cleaned.xlsx     # Cleaned dataset with pivot tables & charts
-
-/python
-    telco_churn_analysis.ipynb   # Your step-by-step Python analysis
-    telco_churn_visualizations.ipynb  # Optional: separate notebook for charts if needed
-
-/sql
-    telco_churn_analysis.sql     # SQL queries for churn analysis
-    revenue_analysis.sql         # Optional: separate query files for clarity
-
-/powerbi
-    telco_churn_dashboard.pbix   # Interactive Power BI dashboard
-
-/images
-    powerbi_churn_screenshot1.png
-    powerbi_churn_screenshot2.png  # Optional: screenshots of key charts or dashboards
-
-README.md                          # Project description, insights, steps
 
 
 ## Steps Performed in the Project
@@ -90,7 +67,6 @@ README.md                          # Project description, insights, steps
 - Added **filters and slicers** for easy exploration  
 - Exported dashboard as `telco_churn_project_powerbi.pbix`  
 
----
 
 ## Key Insights
 
@@ -102,17 +78,15 @@ README.md                          # Project description, insights, steps
 6. Customers without add-on services are more likely to churn  
 7. Predictive model successfully identifies high-risk customers  
 
----
 
 ## Recommendations
 
-1. **Retention Programs** for month-to-month customers  
-2. **Encourage longer contracts** (1-year or 2-year) with perks  
-3. **Monitor high-risk customers** using predictive model outputs  
-4. **Incentivize auto-pay adoption** to reduce churn  
-5. **Upsell additional services** to improve engagement  
+1. Retention Programs for month-to-month customers  
+2. Encourage longer contracts (1-year or 2-year) with perks  
+3. Monitor high-risk customers using predictive model outputs  
+4. Incentivize auto-pay adoption to reduce churn  
+5. Upsell additional services to improve engagement  
 
----
 
 ## Conclusion
-This project provides **actionable insights** and a **predictive framework** for telecom companies to reduce churn, increase revenue, and optimize customer retention strategies.
+This project provides actionable insights and a predictive framework for telecom companies to reduce churn, increase revenue, and optimize customer retention strategies.
