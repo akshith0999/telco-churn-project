@@ -14,8 +14,7 @@ Source: IBM
 
 ## Folder Structure
 
-/data  
-- Raw dataset: `telco_churn_raw.csv`  
+/data  - Raw dataset: `telco_churn_raw.csv`  
 
 /excel
 - Cleaned Excel file: 'Telco_project_Cleaned'
