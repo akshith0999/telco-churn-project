@@ -28,6 +28,30 @@ The project uses **Python, SQL, Excel, and Power BI**, combining data cleaning, 
 → Interactive dashboard: `telco_churn_project_powerbi.pbix`  
 
 
+/data
+    telco_churn_raw.csv          # Original dataset
+
+/excel
+    telco_churn_cleaned.xlsx     # Cleaned dataset with pivot tables & charts
+
+/python
+    telco_churn_analysis.ipynb   # Your step-by-step Python analysis
+    telco_churn_visualizations.ipynb  # Optional: separate notebook for charts if needed
+
+/sql
+    telco_churn_analysis.sql     # SQL queries for churn analysis
+    revenue_analysis.sql         # Optional: separate query files for clarity
+
+/powerbi
+    telco_churn_dashboard.pbix   # Interactive Power BI dashboard
+
+/images
+    powerbi_churn_screenshot1.png
+    powerbi_churn_screenshot2.png  # Optional: screenshots of key charts or dashboards
+
+README.md                          # Project description, insights, steps
+
+
 ## Steps Performed in the Project
 
 ### 1. Excel Analysis
