@@ -25,12 +25,8 @@ The project uses **Python, SQL, Excel, and Power BI**, combining data cleaning, 
 → SQL queries for churn insights: `telco_churn_analysis.sql`  
 
 /powerbi  
-→ Interactive dashboard: `telco_churn_dashboard.pbix`  
+→ Interactive dashboard: `telco_churn_project_powerbi.pbix`  
 
-/images  
-→ Screenshots of dashboards or charts (optional)  
-
----
 
 ## Steps Performed in the Project
 
@@ -68,7 +64,7 @@ The project uses **Python, SQL, Excel, and Power BI**, combining data cleaning, 
   2. **Revenue & Customer Value** – revenue by segment, average customer value  
   3. **ML Predictions** – predicted churn probability visualizations  
 - Added **filters and slicers** for easy exploration  
-- Exported dashboard as `telco_churn_dashboard.pbix`  
+- Exported dashboard as `telco_churn_project_powerbi.pbix`  
 
 ---
 
