@@ -20,13 +20,13 @@ The project uses **Python, SQL, Excel, and Power BI**, combining data cleaning, 
 - Cleaned Excel file with pivot tables: `telco_churn_excel_cleaned.xlsx`  
 
 /python  
-→ Jupyter Notebook with analysis and visualization: `telco_churn_analysis.ipynb`  
+-Jupyter Notebook with analysis and visualization: `telco_churn_analysis.ipynb`  
 
 /sql  
-→ SQL queries for churn insights: `telco_churn_mysql_analysis.sql`  
+-SQL queries for churn insights: `telco_churn_mysql_analysis.sql`  
 
 /powerbi  
-→ Interactive dashboard: `telco_churn_project_powerbi.pbix`  
+-Interactive dashboard: `telco_churn_project_powerbi.pbix`  
 
 
 ## Steps Performed in the Project
@@ -37,8 +37,7 @@ The project uses **Python, SQL, Excel, and Power BI**, combining data cleaning, 
 - Created **pivot tables and charts** to explore:  
   - Churn by contract type  
   - Revenue by customer segment  
-  - Customer tenure distribution  
-- Saved the cleaned dataset as `telco_churn_excel_cleaned.xlsx`  
+  - Customer tenure distribution    
 
 ### 2. Python Analysis
 - Loaded cleaned dataset from Excel/CSV  
@@ -47,16 +46,14 @@ The project uses **Python, SQL, Excel, and Power BI**, combining data cleaning, 
   - Distribution plots for tenure, monthly charges, total charges  
   - Correlation analysis to identify key churn factors  
 - Built a **predictive churn model** using scikit-learn  
-- Visualized results and key metrics  
-- Exported analysis notebook: `telco_churn_analysis.ipynb`  
-
+- Visualized results and key metrics
+- 
 ### 3. SQL Analysis
 - Imported data into MySQL  
 - Ran queries to calculate:  
   - Total customers, churned customers, churn rate  
   - Churn distribution by contract type, tenure, and payment method  
   - Revenue and customer value metrics  
-- Exported queries as `telco_churn_analysis.sql`  
 
 ### 4. Power BI Dashboard
 - Connected Power BI to cleaned data  
@@ -65,7 +62,6 @@ The project uses **Python, SQL, Excel, and Power BI**, combining data cleaning, 
   2. **Revenue & Customer Value** – revenue by segment, average customer value  
   3. **ML Predictions** – predicted churn probability visualizations  
 - Added **filters and slicers** for easy exploration  
-- Exported dashboard as `telco_churn_project_powerbi.pbix`  
 
 
 ## Key Insights
