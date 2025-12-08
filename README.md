@@ -14,23 +14,29 @@ Source: IBM
 
 ## Folder Structure
 
-/data 
+01_data 
 - Raw dataset: `telco_churn_raw.csv`  
 
-/excel
+02_excel
 - Cleaned Excel file: 'Telco_project_Cleaned'
 - Cleaned Excel file with pivot tables: `telco_churn_excel_cleaned.xlsx`  
 
-/python  
+03_python  
 - Jupyter Notebook with analysis and visualization: `telco_churn_analysis.ipynb`  
 
-/sql  
+04_sql  
 - SQL queries for churn insights: `telco_churn_mysql_analysis.sql`  
 
-/powerbi  
+05_powerbi  
 - Interactive dashboard: `telco_churn_project_powerbi.pbix`  
 
+06_images
+    ├─ 01_excel
+    ├─ 02_python
+    ├─ 03_sql
+    └─ 04_powerbi
 
+    
 ## Steps Performed in the Project
 
 ### 1. Excel Analysis
