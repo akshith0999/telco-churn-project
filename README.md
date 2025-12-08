@@ -18,7 +18,7 @@ Source: IBM
 - Raw dataset: `telco_churn_raw.csv`  
 
 02_excel
-- Cleaned Excel file: 'Telco_project_Cleaned'
+- Cleaned Excel file: `Telco_project_Cleaned`
 - Cleaned Excel file with pivot tables: `telco_churn_excel_cleaned.xlsx`  
 
 03_python  
