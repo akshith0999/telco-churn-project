@@ -31,6 +31,7 @@ Source: IBM
 - Interactive dashboard: `telco_churn_project_powerbi.pbix`  
 
 06_images
+
   -1_excel
   -2_python
   -3_sql
