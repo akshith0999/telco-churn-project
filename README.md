@@ -31,10 +31,10 @@ Source: IBM
 - Interactive dashboard: `telco_churn_project_powerbi.pbix`  
 
 06_images
-    ├─ 01_excel
-    ├─ 02_python
-    ├─ 03_sql
-    └─ 04_powerbi
+  -1_excel
+  -2_python
+  -3_sql
+  -4_powerbi
 
     
 ## Steps Performed in the Project
