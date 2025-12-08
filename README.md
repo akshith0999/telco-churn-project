@@ -32,10 +32,10 @@ Source: IBM
 
 06_images
 
-  -1_excel
-  -2_python
-  -3_sql
-  -4_powerbi
+  - 1_excel
+  - 2_python
+  - 3_sql
+  - 4_powerbi
 
     
 ## Steps Performed in the Project
